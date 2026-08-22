@@ -142,9 +142,9 @@ Example:
 
 ## 👨‍💻 Author
 
-**Dinesh Mishra**
+**Sunayana Panda**
 
-GitHub: https://github.com/dineshmishra17
+https://github.com/SunayanaPanda
 
 ---
 
